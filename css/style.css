@@ -52,6 +52,10 @@ li:last-child {
     height: 400px;
     float: right;
 }
+.navigation img[src="images/logo.png"] {
+    width: 100%;
+    height: auto;
+}
 .content {
     width: 500px;
     margin: 0 auto;
