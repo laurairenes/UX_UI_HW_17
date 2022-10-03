@@ -1,7 +1,7 @@
 link {
     display: none;
 }
-img{
+img {
     width: 100%;
     height: auto;
 }
@@ -53,8 +53,8 @@ li:last-child {
     float: right;
 }
 .navigation img[src="images/logo.png"] {
-    width: 100%;
-    height: auto;
+    width: 800px;
+    height: 100px;
 }
 .content {
     width: 500px;
