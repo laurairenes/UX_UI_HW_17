@@ -81,9 +81,10 @@ button {
     border: 1px solid white;
     padding: 15px;
     border-radius: 8px;
-    transition-duration: 0.4s;
+    transition-duration: 0.3s;
+    grid-area: hover;
 }
-.button:hover {
+button:hover {
     background-color: white;
     border: 1px solid #9DF6DC;
 }
